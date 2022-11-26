@@ -5,7 +5,7 @@
 
 ## Project outline
 
-During the final weeks of the Le Wagon Web Developemtn bootcamp we were given the task of creating an Airbnb like clone for our first collaboration project, and so we decided to base it on boats.
+During the final weeks of the Le Wagon Web Development bootcamp we were given the task of creating an Airbnb like clone for our first collaboration project, and so we decided to base it on boats.
 
 The entire website was built from scratch by us over a simple rails boilerplate. It was designed, developed, deployed and presented all within 5 days.
 
