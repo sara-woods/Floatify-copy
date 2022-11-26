@@ -1,7 +1,7 @@
 # Floatify - AirBnB but for boats! 🚤
  Web app based on renting and letting out boats.
  
-### [Floatify](https://floatifyapp.herokuapp.com)
+### [floatify.fly.dev](https://floatify.fly.dev)
 
 ## Project outline
 
@@ -63,5 +63,5 @@ The app contains three models: User, Boat, Booking and Review. There is only typ
 
 🔹 [Luke Billings](https://github.com/lukebillings)  
 🔹 [Gabriel Hardy-Françon](https://github.com/xotw)  
-🔹 [Sara Lotfi](https://github.com/saralotfi)  
+🔹 [Sara Woods](https://github.com/sara-woods)  
 🔹 [Eric Payumo](https://github.com/Erickson1309)  
