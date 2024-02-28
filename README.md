@@ -1,7 +1,6 @@
 # Floatify - AirBnB but for boats! 🚤
  Web app based on renting and letting out boats.
  
-### [floatify.fly.dev](https://floatify.fly.dev)
 
 ## Project outline
 
